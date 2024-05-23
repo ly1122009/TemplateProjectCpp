@@ -1,0 +1,1 @@
+/usr/bin/c++ -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined CMakeFiles/Executable.dir/main.cc.o -o Executable  ../src/libLibrary.a 
