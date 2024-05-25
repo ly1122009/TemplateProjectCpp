@@ -8,8 +8,8 @@
  * @copyright Copyright (c) 2024
  * 
  */
-
 #include "main.hpp"
+#include "func.hpp"
 
 int main()
 {
