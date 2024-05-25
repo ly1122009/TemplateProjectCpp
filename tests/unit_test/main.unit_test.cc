@@ -1,7 +1,8 @@
 #define CATCH_CONFIG_MAIN
 
-#include "func.hpp"
 #include "catch.hpp"
+#include "func.hpp"
+
 
 TEST_CASE("Test sum funcion", "[cal_sum]")
 {

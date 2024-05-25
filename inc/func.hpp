@@ -13,4 +13,4 @@
 
 auto print_helloworld(void) -> void;
 
-auto cal_sum(std::uint32_t a, std::uint32_t b) -> std::uint32_t;
+auto cal_sum(std::uint32_t value1, std::uint32_t value2) -> std::uint32_t;

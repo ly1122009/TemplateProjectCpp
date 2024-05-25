@@ -6,5 +6,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = -I/home/lynguyen/TemplateProjectCpp/TemplateProjectCpp/inc/. -I/home/lynguyen/TemplateProjectCpp/TemplateProjectCpp/catch2/.
 
-CXX_FLAGS = -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined -Wall -Wextra -Wpedantic
+CXX_FLAGS = -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined -Wall -Wextra -Wpedantic -std=c++20
 

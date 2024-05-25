@@ -1,4 +1,4 @@
 #pragma once
 #include <iostream>
 
-#define SUCCESS 0
+#define EXIT_SUCCEED    0

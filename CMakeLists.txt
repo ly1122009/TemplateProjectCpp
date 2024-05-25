@@ -4,6 +4,11 @@ cmake_minimum_required(VERSION 3.22)
 # Define project
 project(TemplateProjectCpp VERSION 1.0.0 LANGUAGES C CXX)
 
+set(CMAKE_CXX_STANDARD          20)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_CXX_EXTENSIONS        OFF)
+
+
 set(LIBRARY_NAME    Library)
 set(EXECUTABLE_NAME Executable)
 set(CMAKE_MODULE_PATH "${PROJECT_SOURCE_DIR}/cmake/")
