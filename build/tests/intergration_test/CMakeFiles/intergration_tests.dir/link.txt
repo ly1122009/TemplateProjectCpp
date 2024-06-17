@@ -1,1 +1,0 @@
-/usr/bin/c++ -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined CMakeFiles/intergration_tests.dir/main.intergration_test.cc.o -o intergration_tests  ../../src/libLibrary.a /usr/local/lib/libCatch2.a 
